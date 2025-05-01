@@ -1,3 +1,5 @@
+![](https://github.com/jerico-c/jerico-c/blob/main/profile.gif)
+
 ## Hey there, I'm Jerico Christianto 👋 
 🎓 An Electrical Engineering student with a spark for Fullstack Development ⚙️ and a strong pulse for Network Administration 🌐.
 I love turning ideas into real-world digital solutions—clean code, smart systems, and everything in between!
