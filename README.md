@@ -7,8 +7,6 @@ I love turning ideas into real-world digital solutions—clean code, smart syste
 🔌 Currently diving deep into:
 Frontend & Backend Web Dev (Fullstack Life 🔄)
 
-Exploring networks like a digital cartographer 🗺️
-
 ## 🌐 Always up for collaboration, tech talks, or just geeking out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jerico-christianto) 
 
