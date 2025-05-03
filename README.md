@@ -1,11 +1,8 @@
 ![](https://github.com/jerico-c/jerico-c/blob/main/profile.gif)
 
 ## Hey there, I'm Jerico Christianto 👋 
-🎓 An Electrical Engineering student with a spark for Fullstack Development ⚙️ and a strong pulse for Network Administration 🌐.
-I love turning ideas into real-world digital solutions—clean code, smart systems, and everything in between!
-
 🔌 Currently diving deep into:
-Frontend & Backend Web Dev (Fullstack Life 🔄)
+Frontend & Backend Web Dev
 
 ## 🌐 Always up for collaboration, tech talks, or just geeking out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jerico-christianto) 
