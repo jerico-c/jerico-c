@@ -1,7 +1,6 @@
 ![](https://github.com/jerico-c/jerico-c/blob/main/profile.gif)
 
 ## Hey there, I'm Jerico Christianto 👋 
-🔌 Currently diving deep into:
 Frontend & Backend Web Dev
 
 ## 🌐 Always up for collaboration
