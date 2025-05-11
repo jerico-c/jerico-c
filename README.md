@@ -1,7 +1,7 @@
 ![](https://github.com/jerico-c/jerico-c/blob/main/computer.gif)
 
 ## Hey there, I'm Jerico Christianto 👋 
-Frontend & Backend Web Dev
+Full Stack Developer
 
 ## 🌐 Always up for collaboration
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jerico-christianto) 
