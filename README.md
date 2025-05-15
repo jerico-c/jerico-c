@@ -1,4 +1,4 @@
-![](https://github.com/jerico-c/jerico-c/blob/main/computer.gif)
+![](https://github.com/jerico-c/jerico-c/blob/main/profile.gif)
 
 ## Hey there, I'm Jerico Christianto 👋 
 Full Stack Developer
