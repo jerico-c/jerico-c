@@ -15,6 +15,8 @@ Full Stack Developer
 ![](https://nirzak-streak-stats.vercel.app/?user=jerico-c&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerico-c&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=jerico-c&style=flat-square)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jerico-c&icon=0&color=0)](https://visitcount.itsvg.in)
 
