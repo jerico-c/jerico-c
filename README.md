@@ -3,7 +3,7 @@
 ## Hey there, I'm Jerico Christianto 👋 
 Full Stack Developer
 
-## 🌐 Let's Link Up!
+## Let's Link Up!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerico-christianto) 
 
 ## Check my Portfolio Profile
