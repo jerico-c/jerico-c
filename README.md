@@ -26,4 +26,4 @@ Full Stack Developer
 </picture>
 
 
-![](https://github.com/jerico-c/jerico-c/blob/main/keyboard.gif)
+![](https://github.com/jerico-c/jerico-c/blob/main/profile.gif)
